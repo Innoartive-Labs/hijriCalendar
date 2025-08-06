@@ -1,9 +1,6 @@
 # 🕋 hijriCalendar
 
 > A Hijri calendar utility tailored for the **Dawoodi Bohra** community, built with precision and purpose.
-
-![Hijri Calendar Converter](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) <!-- Replace with your own neon-themed gif later -->
-
 ---
 
 ## 🚀 Features
