@@ -28,7 +28,7 @@ This version focuses solely on:
 #### ⬇️ Install via npm
 
 ```bash
-npm install hijricalendar
+npm install @innoartive-labs/hijricalendar
 ```
 
 #### 📄 In your JavaScript:
